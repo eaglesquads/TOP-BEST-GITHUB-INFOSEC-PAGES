@@ -1,2 +1,6 @@
-# TOP-BEST-GITHUB-USERS
-The very, (VERY) - Best, extremely well informing &amp; detailed Github Users &amp; Githbu Pages |!NOTE!| THIS IS ONLY MY OPINION! It's also made only for myself, soo.. But feel free to contribute! |!NOTE!|
+Made for myself, I (myself) think of this as a, notebook, reports, curated-list of, the tech I like ( . . .)
+- stuff like that.
+
+
+# Top Infosec Resources #
+. . . .coming soon
